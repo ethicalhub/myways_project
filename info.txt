@@ -1,0 +1,34 @@
+This project is build for the assignment task given by MyWays.
+
+technologyUsed = {
+    frontend : {
+         "ReactJS" : [
+             react-router-dom , 
+             react-bootstrap-router, 
+             react-bootstrap, 
+             a bootstrap library from bootswatch, 
+             axios library for ajax request
+         ]
+          }
+        ,
+    backend : {
+        "ExpressJS && NodeJS" : [
+            express,
+            mongoose,
+            body-parser,
+            dotenv,
+            bcrypt,
+            mongoose-unique-validator
+        
+        ]
+    database : "mongoDB" 
+}
+
+toolsUsed  ={
+    ide : "VS Code"
+}
+
+
+Used es6 modules in express, by updating the type : "module" in package.json
+
+Nodemon and Concurrently as dev dependencies to run client and server side simultaneously and together.
