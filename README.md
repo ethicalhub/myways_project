@@ -1,5 +1,7 @@
 # myways_project
 
+checkout live on https://ethicalsapp.herokuapp.com/
+
 This project is created by Yasir Ansari, for the task given by myways. 
 
 To initialise the project clone the directory 
